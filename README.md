@@ -1,7 +1,6 @@
 <!-- 🔥 NEON C Programming Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6YVw3Fq.gif" width="80%" alt="C Programming Banner">
-</p>
+  
 
 <h1 align="center">⚡ C Programming Repository ⚡</h1>
 <p align="center">✨ A Collection of Beginner to Intermediate C Programs ✨</p>
