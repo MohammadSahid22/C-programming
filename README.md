@@ -7,7 +7,7 @@
 
 ---
 
-## 🌈 **🚀 Program List (Neon Styled)**
+## 🌈 **🚀 Program List **
 
 ### 🔥 **Basic Programs**
 - ➕ Addition of Two Numbers  
